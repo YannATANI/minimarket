@@ -1,1 +1,1 @@
-export const API = "http://localhost/minimarket/backend";
+export const API = " https://minimarket-qnug.onrender.com";
