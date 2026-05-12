@@ -10,7 +10,7 @@ import Contact from "./pages/Contact";
 import Login from "./auth/Login";
 import Register from "./auth/Signin";
 import AdminProducts from "./pages/admin/AdminProducts";
-import AdminBlog from "./pages/admin/Adminblog"; "./pages/admin/AdminBlog"
+import AdminBlog from "./pages/admin/Adminblog"; 
 import "./index.css";
 
 function App() {
